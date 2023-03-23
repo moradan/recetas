@@ -16,3 +16,7 @@ img {
     border-radius: 5px;
     box-shadow: 5px 5px 5px black;
 }
+
+.no-shadow {
+    box-shadow: none;
+}
